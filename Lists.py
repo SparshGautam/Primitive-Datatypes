@@ -11,5 +11,7 @@ print(names)
 
 m = input(names)
 print(m)
+names.remove("james")                               # you can also remove names from the list by using remove function
+print(names)
 
 
