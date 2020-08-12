@@ -8,4 +8,4 @@ names = "hello my name is adarsh"                  # in the same way  you can us
 
 print(names[:5])                                   # here hello = 5 alphabets so i typed here 5
 
-print(digits[0:3])                                 #this function is known as strides here your 3rd digits will be printed leaving other 2
+print(digits[0:3])                                 #this, function is known as strides here your 3rd digits will be printed leaving other 2
