@@ -4,3 +4,8 @@ print(digits[0:5])                # the colon indicates to print number in range
 
 for i in range(len(digits)):      # for loop to print in range to variable i
   print(digits[0:i])
+  
+  
+
+for i in range(len(digits)):     # for loop examples
+  print(digits[i:i+3])
